@@ -2,6 +2,6 @@ FLASK demo project
 
 To setup dm in project directory run:
 
-```Shell
+```shell
 sqlite3 /tmp/flaskr.db < schema.sql
 ```
